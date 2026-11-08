@@ -9,7 +9,7 @@ and presents the results on a live dashboard.
 
 | 2 | Analysed Data | [Open analysed data](https://docs.google.com/spreadsheets/d/1Q4jxtVAz_FIPf3OXWKSLEDAQYyIMNA8fNCYiMi6vlgw/edit?usp=sharing)
 
-| 3 | Apps Script Code | Automation scripts for cleaning, summaries and the dashboard | [Open script](https://script.google.com/u/0/home/projects/1q6uiXXf07jAdKncKqbsK48rUsStU9Hw921wAAL5GMfY0-cd-uSHcBFA0/edit))
+| 3 | Apps Script Code | Automation scripts for cleaning, summaries and the dashboard | [Open script](https://script.google.com/u/0/home/projects/1q6uiXXf07jAdKncKqbsK48rUsStU9Hw921wAAL5GMfY0-cd-uSHcBFA0/edit)
 
 | 4 | Live Dashboard | Interactive dashboard with KPIs and charts | [Open dashboard](https://script.google.com/macros/s/AKfycbwlBrpq826UyAVOTukVARdiEVlw26uhMolcFHBBW95vQe9E1f9Xo03iV27JuJFSJsu2/exec)
 
